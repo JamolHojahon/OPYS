@@ -1,0 +1,7 @@
+{
+    "driverName": "postgres",
+    "DataBaseUser": "postgres",
+    "DataBaseName": "muted",
+    "DataBasePassword": "admin",
+    "sslMode": "disable"
+}
